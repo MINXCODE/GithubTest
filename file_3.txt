@@ -1,6 +1,10 @@
 file 3
 
 version 1
+<<<<<<< HEAD
 
 
 version 3
+=======
+version 2
+>>>>>>> 82fd50c5f8a2b9fc2160f75c7fdc637e17302b84
